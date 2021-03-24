@@ -1,3 +1,3 @@
 # Demo Git
 
-git Demo working
+Working on Git Demo.
